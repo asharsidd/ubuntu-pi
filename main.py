@@ -17,3 +17,8 @@ if __name__ == '__main__':
 
 print("This is my first program!")
 print(2+5)
+
+def printthis(msg):
+    print(msg)
+
+printthis("Hello message")
